@@ -1,8 +1,5 @@
 # Vagrant VM Lab
 
-## Project Title
-Vagrant VM Lab
-
 ## Purpose
 This project creates a reusable Ubuntu-based virtual machine for local development, testing, and automation lab work. It provides a consistent environment for experimenting with Linux configuration, package installation, and web services without affecting the host machine.
 
